@@ -1,0 +1,23 @@
+{
+    "name": "catman",
+    "version": "0.0.0",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "testDependencies": {},
+    "targetVersions": {
+        "target": "1.12.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
